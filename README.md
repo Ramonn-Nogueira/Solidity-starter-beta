@@ -1,40 +1,40 @@
 # Replit Solidity Template
-Welcome to the world of Ethereum and Web3! This is a beta template for Solidity development on Replit. Solidity is the language used to create Smart Contracts, which are programs that run on the Ethereum Blockchain.
+Bem-vindo ao mundo do Ethereum e Web3! Este é um modelo beta para o desenvolvimento do Solidity no Replit. Solidity é a linguagem usada para criar Smart Contracts, que são programas executados no Ethereum Blockchain.
 
-Features include:
-- Hot reloading
-- Solidity error checking
-- Deploying multiple contracts
-- UI for testing out contracts
-- Replit testnet + faucet
+Características incluem:
+- Recarregamento quente
+- Verificação de erros de solidity
+- Implantação de vários contratos
+- UI para testar contratos
+- Replit testnet + torneira
 
-## Getting started
-**Just press the `Run ▶️` button!**
+## Começando
+**Apenas pressione o botão `Executar ▶️`!**
 
-- You should only need to do this once (and might take like 15s). This will install all relevant packages, start up the contract deployment UI, and compile your `contract.sol` file.
+- Você só precisa fazer isso uma vez (e pode levar uns 15s). Isso instalará todos os pacotes relevantes, iniciará a interface do usuário de implantação do contrato e compilará seu arquivo `contract.sol`.
 
-- `contract.sol` will automatically recompile whenever you edit it, and all your contracts inside of this file will be available to deploy from the UI.
+- `contract.sol` irá recompilar automaticamente sempre que você o editar, e todos os seus contratos dentro deste arquivo estarão disponíveis para implantação a partir da interface do usuário.
 
-- Pressing `cmd-s` or `ctrl-s` (windows) will reload the UI.
+- Pressionar `cmd-s` ou `ctrl-s` (windows) recarregará a IU.
 
-We have preinstalled packages from `@openzeppelin/contracts`. To install other solidity packages that are distributed on npm, make sure you install them using the Package Installer 📦 in the sidebar
+Temos pacotes pré-instalados de `@openzeppelin/contracts`. Para instalar outros pacotes de solidity que são distribuídos no npm, certifique-se de instalá-los usando o Instalador de Pacotes 📦 na barra lateral
 
-## Examples
+## Exemplos
 
-We included a few example contracts in the `examples` folder. These will not be automatically deployed or accessible in the UI, but you can copy / paste them into your main `contract.sol` file or import them. They're there for your reference!
+Incluímos alguns exemplos de contratos na pasta `exemplos`. Eles não serão automaticamente implantados ou acessíveis na interface do usuário, mas você pode copiá-los/colá-los em seu arquivo `contract.sol` principal ou importá-los. Eles estão lá para sua referência!
 
-## Future work
+## Trabalho futuro
 
-We're working on some other features for making development here a lot easier, which are included, but not limited to:
+Estamos trabalhando em alguns outros recursos para tornar o desenvolvimento muito mais fácil aqui, que estão incluídos, mas não limitados a:
 
-- LSP support for solidity
-- Integration with hardhat for "local" (in-repl) testing
-- An actual solidity REPL for quickly prototyping / testing functions or lines.
+- Suporte LSP para solidity
+- Integração com hardhat para teste "local" (in-repl)
+- Um REPL de solidity real para prototipagem / teste rápido de funções ou linhas.
 
-## Feedback
+## Opinião
 
-Please leave any comments on this repl's [spotlight page here](https://replit.com/@replit/Solidity-starter-beta?v=1).
+Por favor, deixe comentários sobre a [página de destaque aqui](https://replit.com/@replit/Solidity-starter-beta?v=1) deste repl.
 
-The UI is subject to change (and still needs some real responsive work), so we'd appreciate any feedback there. 
+A interface do usuário está sujeita a alterações (e ainda precisa de algum trabalho responsivo real), portanto, agradecemos qualquer feedback.
 
-We're also trying to improve the overall dev experience, especially for beginners, so any feedback there is appreciated. 
+Também estamos tentando melhorar a experiência geral do desenvolvedor, especialmente para iniciantes, portanto, qualquer feedback é bem-vindo.
